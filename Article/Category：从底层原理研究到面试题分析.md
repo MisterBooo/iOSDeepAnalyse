@@ -2,7 +2,10 @@
 
 ![](http://oriq21dog.bkt.clouddn.com/20180916144028.png)
 
-> 本文将对category的源码进行比较全面的整理分析，最后结合一些面试题进行总结，希望对读者有所裨益。
+> 本文将对category的源码进行比较全面的整理分析，最后结合一些面试题进行总结，希望对读者有所裨益。  
+> GitHub Repo：[iOSDeepAnalyse](https://github.com/MisterBooo/iOSDeepAnalyse)   
+> Follow: [MisterBooo · GitHub](https://github.com/MisterBooo)      
+> Source:  [Category：从底层原理研究到面试题分析](https://github.com/MisterBooo/iOSDeepAnalyse/blob/master/Article/Category：从底层原理研究到面试题分析.md)
 
 ### 目录  
  * 1.Category源码分析
